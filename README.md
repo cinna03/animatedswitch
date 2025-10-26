@@ -28,4 +28,4 @@ To use these Switch Buttons in your Flutter project, follow these steps:
 
 4. Explore the code and customize the Switch Buttons to fit your application's needs.
 
-The orginal code was from a creator named Alvaro Armijos
+## The original code is from a creator called Alvaro Armijos
